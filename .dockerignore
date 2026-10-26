@@ -1,0 +1,6 @@
+*.md
+keys.json
+*.py
+__pycache__/
+.git/
+.vscode/
